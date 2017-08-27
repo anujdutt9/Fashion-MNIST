@@ -13,7 +13,7 @@
 
 
 
-## Sample Output
+## Sample Predictions
 
 * Shirt
 
