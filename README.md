@@ -40,4 +40,4 @@
 ![Output a1](Outputs/sneaker-col.png?raw=true "Output a1") 
 
 
-**Check out the Accuracy with different Classifiers and their comparison on an online tool [here](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/).**
+**Check out the Accuracy with different Classifiers and their comparison using an online tool [here](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/).**
